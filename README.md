@@ -8,7 +8,7 @@ Please feel free to check it, give us your feedbacks through this form link and 
 
 Please find [the presentation](https://tinyurl.com/y9nu4s9p) as well.
 
-The #workshop mainly covered these points :
+The workshop mainly covered these points :
 
 ▪️ Introduction to R | RStudio | #RStudio Cloud
 
