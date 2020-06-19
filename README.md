@@ -4,8 +4,6 @@ If you would like to review the workshop sessions please check on the youtube vi
 
 Through [this article](https://rpubs.com/R-Ladies_Tunis/626369), we also provide the code used.
 
-Please feel free to check it, give us your feedbacks through this form link and don't hesitate to ask questions if needed. 
-
 Please find [the presentation](https://tinyurl.com/y9nu4s9p) as well.
 
 The workshop mainly covered these points :
